@@ -1,0 +1,8 @@
+Dear {{ company_name }},
+
+I'm excited to apply for the {{ position }} role. With experience in {{ skills }}, I'm confident in my ability to contribute meaningfully to your team.
+
+[Add a paragraph or two about your interest and match]
+
+Sincerely,
+{{ your_name }}
