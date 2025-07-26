@@ -5,6 +5,7 @@ import time
 from generate_letter import generate_cover_letter
 import os
 
+
 def load_sent_jobs():
     if not os.path.exists("sent_jobs.json"):
         return set()
