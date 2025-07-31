@@ -1,7 +1,5 @@
-config.json
 sent_jobs.json
 __pycache__/
 .pyc
 *.pyc
 .idea
-.json
