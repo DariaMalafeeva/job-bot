@@ -20,10 +20,19 @@ Originally created to simplify my own job search and explore data parsing, autom
 - SQLite
 - Telegram Bot API
 
-## Notes
+---
 
-⚠️ This is a personal project created for learning and automation purposes.  
-Not intended for public deployment or commercial use. Please respect LinkedIn's Terms of Service.
+⚠️ Disclaimer
+
+This project is intended for personal and educational use only.  
+It is not affiliated with or endorsed by LinkedIn or any other platform.  
+Please respect the terms of service of any websites you interact with using this code.
+
+This repository does not collect, store, or process any personal data.  
+It does not provide any commercial functionality or public-facing service.
+
+Use at your own risk and only within the scope of local laws and terms of service.
+
 
 ## Possible Next Steps
 
